@@ -1,7 +1,7 @@
 
 - :microscope: I’m currently a Master's student majoring in microbiology.
 - :man_scientist: I’m currently working on statistical and bioinformatic analysis.
-- 🤔 I’m interested in applied algorithms and statistical models related to clinical and basic medicine.
+- :computer: I’m interested in applied algorithms and statistical models related to clinical and basic medicine.
 - 📫 You can reach me at : ```gnchenmed@gmail.com```
 - ⚡ My GPG key : [GPG Public Key](https://github.com/MitsuhaMiyamizu.gpg)
 
